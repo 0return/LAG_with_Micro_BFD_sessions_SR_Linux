@@ -1,4 +1,4 @@
-name: test
+name: LAG_with_BFD
 topology:
   nodes:
     spine1:
